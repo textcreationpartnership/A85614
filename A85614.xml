@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the north giving a true account and relation of the seizing of several great officers, soldiers, and other eminent persons, particularly, one of the late king's domestick servants : together with their horses, arms, and other considerable booty, designed, as is supposed, for Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85614</idno>
+            <idno type="STC">Wing G1735F</idno>
+            <idno type="STC">ESTC R42736</idno>
+            <idno type="EEBO-CITATION">38875674</idno>
+            <idno type="OCLC">ocm 38875674</idno>
+            <idno type="VID">152274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152274)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2289:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the north giving a true account and relation of the seizing of several great officers, soldiers, and other eminent persons, particularly, one of the late king's domestick servants : together with their horses, arms, and other considerable booty, designed, as is supposed, for Ireland.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Rogers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the Year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:152274:1"/>
+            <pb n="1" facs="tcp:152274:1" rendition="simple:additions"/>
+            <head>Great News from the NORTH: GIVING A True Account and RELATION OF THE Seizing of ſeveral Great Officers, Soldiers, and other Eminent Perſons; Particularly, One of the late King's Domeſtick Servants: TOGETHER With their Horſes, Arms, and other Conſiderable Booty; deſigned, as is ſuppoſed, for <hi>Ireland.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed, and Enter'd according to Order.</p>
+               </body>
+            </floatingText>
+            <p>SInce Almighty Providence has ſo Signally manifeſted its Power, in the Pre<g ref="char:EOLhyphen"/>ſervation of theſe Kingdoms, from the Bondage of <hi>Popery</hi> and Slavery; we cannot but wonder, that there ſhould be any of that Faction remaining to Support ſo Tottering a Cauſe. And yet it is too Evident, by the Sedulous Endeavours of our Implacable Adverſaries, that we have ſtill too many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncendiaries and Beautifeus amongſt us, as to raiſe that Fading Smoak into a Flame. Theſe are the people, whoſe very Rudiments and Fundamentals diſtill <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto them the principles of Cruelty and Rebellion; that have Commiſſion for Murder, and Diſpenſation for Deſtroying <hi>Hereticks.</hi> But all their Stratagems are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n vain: nor can it now be expected that any reaſonable perſon ſhould be ſo In<g ref="char:EOLhyphen"/>ſatuated, as once to ſuffer it to enter into his mind to bring us back from a Flouriſhing people, a ſettled Throne, and a Unanimous Eſtabliſhment, to a Vo<g ref="char:EOLhyphen"/>luntary Bondage; or Subject the Serenity of a Halcyon Galm, to the Storms and Tempeſts of a threatning Tyranny: Yet notwithſtanding the Tranquility which theſe Nations ſenſibly feel and poſſeſs under the Benigne Influence of ſo Gracious a King and Queen, Eſtabliſhed in the Throne, and the Aſſurance we have of the <hi>Proteſtant</hi> Religion, confirm'd to us with all our Rights and Liberties; there are yet a ſort of Male-contents amongſt us, that, like the <hi>Murmuring Iſraelites,</hi> deſpiſe the <hi>Manna,</hi> that Heaven ſhowers round about their Tents, the true Re<g ref="char:EOLhyphen"/>ligion, and Light of the Goſpel that ſhined upon them; and Luſt after the O<g ref="char:EOLhyphen"/>nions, and Fleſh-pots of <hi>Aegypt.</hi> Theſe are the <hi>Murmurs,</hi> that are unadviſedly deſirous to bring us back to the Fleſh-pots of <hi>Aegypt;</hi> The Bondage we have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lately and miraculouſly Eſcaped. Of this ſort are thoſe, who by a Treacherous Revolt, (at leaſt Neglect) betray'd their Truſt in <hi>Ireland,</hi> to the great prejudice of the preſent happy Eſtabliſhment of this Nation, and the <hi>Proteſtant</hi> Intereſt in that Kingdom; that Intereſt which they thought to have utterly ſubdued,
+<pb n="2" facs="tcp:152274:2"/>cruſh'd and oppreſt by an Inſulting power of <hi>French</hi> and <hi>Iriſh Papiſts;</hi> and thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with all the Demonſtrations of Cruelty, that could be expected from a mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Incenſed and Barbarous Enemy. And not only in <hi>Ireland,</hi> but the Kingdome <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Scotland,</hi> where ſome have fall'n under the ſuſpicion of Undutifulneſs and Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>loyalty, and yet ſome of them profeſſing themſelves <hi>Proteſtants.</hi> But that an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Hero Engliſh</hi> Soul ſhou'd ſo Degenerate, is to be more admir'd, if not deplor'd Yet it ſeems amongſt us, there are not ſome wanting, who after ſo great a De<g ref="char:EOLhyphen"/>liverance, are deſirous (if it lay in their power) to inflame their Native Land and appear Reprobates to the Grace is offer'd to them. This is the Subject <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our preſent Matter, and appears by theſe Gentlemen and Fugitives mention'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in this Narrative, who have endeavour'd to get off to the profeſſed Enemy, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Diſturber of the Peace and Tranquility of theſe Kingdoms: and labour to brea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the wholeſome Meaſures, hitherto taken for our Security. And tho' theſe In<g ref="char:EOLhyphen"/>cendiaries of the Nation, and diſturbers of our publick peace, have found al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Attempts hitherto unſucceſsful, through the Vigilance of thoſe who are in Authority; Yet do they ſtill, like <hi>Cataline,</hi> attempt higher ills, although <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be to their own Deſtruction.</p>
+            <p>Amongſt this numerous Train, whoſe Perſons as well as Intreagues have been from time to time detected, the following perſons have been lately Diſcover'd, with a Deſign of going over into <hi>Ireland</hi> to joyn Arms with thoſe Combinated Rebels, the <hi>French</hi> and <hi>Iriſh,</hi> againſt the preſent Government.</p>
+            <p>The Principal of theſe Perſons now taken and ſecur'd, was Col. <hi>L—gg,</hi> Bro<g ref="char:EOLhyphen"/>ther to an eminent Peer of this Realm, with whom was one <hi>Hay<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood,</hi> another Eminent Officer, and ſeveral more. Enquiry was made into that matter, and it appearing more and more ſuſpicious, that there was ſome deſign on foot to raiſe Commotions, or to get over to the <hi>Popiſh</hi> party in <hi>Ireland,</hi> ſuch diligence was uſed by the Officers of the <hi>Militia</hi> and others, that for the preventing the Miſ<g ref="char:EOLhyphen"/>chiefs that might ariſe through neglect, the ſaid Colonel, and above twelve per<g ref="char:EOLhyphen"/>ſons of Note more were ſecured, in order to their being examined, and brought up to <hi>London;</hi> their Horſes were likewiſe ſeized, with valuable Materials and Furniture: And amongſt the number of thoſe taken, we have an Expreſs by a Letter, that upon ſcrutiny and ſtrict Examination, one of them appears to be, or very lately to have been, the late King <hi>James</hi>'s Domeſtick Servant; by wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe further Examination, it is not doubted a great Light may be given into the dark Contrivances, and underhand Dealings; ſo that the ſecret Intreagues of the <hi>Papiſts,</hi> and their Agents may be blaſted, and utterly defeated in theſe Kingdoms; and that as they all along have experienced, they may find, that they are but vain Projectors, ſince their Wiſdom is ever luckily turned into Fooliſhneſs; and that God being on our ſide, it is evident, that Man's Counſels and Devices can<g ref="char:EOLhyphen"/>not proſper againſt the Strength of an Almighty A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, who has Power to Will and to Do what ever he pleaſes in Heaven, and in Earth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Rogers,</hi> in the Year 1689.</p>
+            <pb facs="tcp:152274:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
